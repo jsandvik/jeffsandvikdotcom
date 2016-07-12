@@ -1,0 +1,22 @@
+.counter {
+	text-align:center;
+}
+
+h1 {
+	color:white;
+	font-size:100;
+}
+
+
+marquee {
+	color:white;
+	font-size:100;
+}
+
+a {
+	color:green;
+	font-size:25;
+}
+a:visited {
+	color:red;
+}
